@@ -1,0 +1,4 @@
+{
+  "name": "vpn2",
+  "postCreateCommand": "bash /workspaces/vpn2/.devcontainer/setup.sh"
+}
